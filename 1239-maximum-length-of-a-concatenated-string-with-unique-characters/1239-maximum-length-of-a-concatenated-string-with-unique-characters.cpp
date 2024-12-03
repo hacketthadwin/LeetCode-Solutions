@@ -1,21 +1,26 @@
 class Solution {
 public:
-  vector<string> arr;
-
-    int solve(string currstring, int idx) 
+    vector<string>arr;
+    int solve(string currstring,int idx)
     {
-        // Pruning case
-        vector<int> charCount(26, 0); 
-        for (char s : currstring) {
-            if (charCount[s - 'a']++ > 0) return 0;
+        //pruningcase
+        map<char,int>mp;
+        for(int k=0;k<currstring.size();k++)
+        {
+            if(mp[currstring[k]])return 0;
+            else mp[currstring[k]]++;
+        }
+       //basecase
+       if(idx==arr.size())return currstring.size();
+       //compute and transition
+        int maxResult = currstring.size();
+        for (int i = idx; i < arr.size(); i++) 
+        {
+            maxResult = max(maxResult, solve(currstring + arr[i], i + 1));
         }
 
-        // Base case:
-        if (idx == arr.size()) return currstring.size();
-        //compute and transition
-        int exclude = solve(currstring, idx + 1);                
-        int include = solve(currstring + arr[idx], idx + 1);     
-        return max(exclude, include);
+        return maxResult;
+
     }
     int maxLength(vector<string>& arr1) {
         arr=arr1;
