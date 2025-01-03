@@ -2,6 +2,9 @@ class Solution {
 public:
 // this problem involves both two pointers and binary search algorithm, the check function is two pointers function of type 2 and the main function is binary search
 //this is one of the best problem to practice for both algorithm
+//in the check function count pairs whose difference is less than mid
+//this is the method to count the number of pairs less than equals to mid
+//learn it
     bool check(long long mid,vector<int>& nums, int k )
     {
         int count = 0;
