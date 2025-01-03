@@ -1,5 +1,7 @@
 class Solution {
 public:
+// this problem involves both two pointers and binary search algorithm, the check function is two pointers function of type 2 and the main function is binary search
+//this is one of the best problem to practice for both algorithm
     bool check(long long mid,vector<int>& nums, int k )
     {
         int count = 0;
