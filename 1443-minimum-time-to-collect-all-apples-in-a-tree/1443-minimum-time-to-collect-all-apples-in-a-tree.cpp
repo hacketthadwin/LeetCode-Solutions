@@ -1,6 +1,6 @@
 class Solution {
 public:
-
+    //this is a very type of approach for this types of problem
     int ans = 0;
 
     int dfs(vector<vector<int>>& adj, vector<bool>& hasApple, int u, vector<bool>& visited) {
