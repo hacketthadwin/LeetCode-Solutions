@@ -48,21 +48,20 @@ result = (pos == std::string::npos) ? "0" : result.substr(pos);
 typedef tree<int,null_type,less<int>,rb_tree_tag,tree_order_statistics_node_update>ordered_set;  //you can use less/greater/less_equal/greater_equal instead of less<int> as per your requirement
 class Solution {
 public:
+//this is simple pnc problem, we have total blocks to walk as (m-1)+(n-1), we can move down only m-1 times, so we can simply write it as (m+n-2)C(m-1)
 long long combination(int n, int r) {
     if (r > n - r) {
-        r = n - r;  // C(n, r) = C(n, n-r), pick the smaller r
+        r = n - r; 
     }
     long long result = 1;
     for (int i = 1; i <= r; i++) {
-        // Multiply by (n-r+i) first to keep the intermediate as large as possible
+
         result = result * (n - r + i) / i;
     }
     return result;
 }
 
-// Computes number of unique paths in an m x n grid
 long long uniquePathsu(int m, int n) {
-    // We want C((m-1)+(n-1), (m-1)) = C(m+n-2, m-1)
     return combination(m + n - 2, m - 1);
 }
     int uniquePaths(int m, int n) {
