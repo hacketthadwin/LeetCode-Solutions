@@ -2,26 +2,14 @@ class Solution {
 public:
 //so we have to count the number of numbers divisible by 2 in this;
     vector<int> countBits(int n) {
-        int num = 1;
-        vector<int> divby2;
-        divby2.push_back(num);
-        while (num < 1e5) {
-            num *= 2;
-            divby2.push_back(num);
+    //dp approach was difficult to find, so here it is
+        vector<int> dp(n + 1, 0);
+        for (int i = 1; i <= n; i++) {
+            dp[i] = dp[i >> 1] + (i & 1);
         }
-        int sz = divby2.size();
-        vector<int> ans;
-        for (int c = 0; c <= n; c++) {
-            int cnt = 0;
-            int temp = c;  
-            for (int i = sz - 1; i >= 0; i--) {  
-                if (temp >= divby2[i]) {
-                    temp -= divby2[i];
-                    cnt++;
-                }
-            }
-            ans.push_back(cnt);
-        }
-        return ans;
+        return dp;
+        //for every number from 0 to n, we will go to half of that number, check the number of ones in that number and if current number is odd, then adding one from that too
+        //very awesome approach in o(n)
+
     }
 };
