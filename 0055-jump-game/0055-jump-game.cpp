@@ -10,17 +10,37 @@ public:
         //cache check
         if(dp[index]!=-1)return dp[index];
         //compute and transition
-        bool a=false;
         for(int i=1;i<=nums[index];i++)
         {
-            a|=rec(index+i,nums,n);
+            if(rec(index+i,nums,n))
+            {
+                dp[index]=true;
+                return true;
+            }
         }
-        dp[index]=a;
+        dp[index]=false;
         return dp[index];
 
     }
+    bool ultarec(vector<int>& nums)
+    {
+        int n=nums.size();
+        vector<int>dp(10*n,0);
+        dp[n-1]=1;
+        bool a=false;
+        for(int index=nums[0];index<=(n-1);index++)
+        {
+            for(int i=1;i<=nums[index];i++)
+            {
+                a|=dp[index+i];
+                dp[index]=a;
+            }
+        }
+        return dp[n-1];
+    }
     bool canJump(vector<int>& nums) {
-        memset(dp,-1,sizeof(dp));
-       return rec(0,nums, nums.size());
+    //    return ultarec(nums);
+    memset(dp,-1,sizeof(dp));
+    return rec(0,nums,nums.size());
     }
 };
