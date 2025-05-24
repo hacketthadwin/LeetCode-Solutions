@@ -35,6 +35,8 @@ public:
 //     return cost;
 
 // }
+
+//this was a problem of partition dp
 int dp[110][110];
 int rec(vector<int>& cuts,int i,int j)
 {
