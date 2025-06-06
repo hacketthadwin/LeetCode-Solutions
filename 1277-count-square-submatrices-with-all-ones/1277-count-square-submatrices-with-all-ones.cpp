@@ -18,9 +18,26 @@ int rec(vector<vector<int>>& matrix,int m,int n)
     }
     return dp[m][n]=ans;
 }
-// int ultarec(vector<vector<int>>& matrix){
+int ultarec(vector<vector<int>>& matrix,int m, int n){
 
-// }
+        vector<vector<int>> ultadp(m, vector<int>(n, 0));
+        int total = 0;
+
+        for (int i = 0; i < m; ++i) {
+            for (int j = 0; j < n; ++j) {
+                if (matrix[i][j] == 1) {
+                    if (i == 0 || j == 0) {
+                        ultadp[i][j] = 1;
+                    } else {
+                        ultadp[i][j] = 1 + min({ultadp[i - 1][j], ultadp[i][j - 1], ultadp[i - 1][j - 1]});
+                    }
+                    total += ultadp[i][j];
+                }
+            }
+        }
+
+        return total;
+}
     int countSquares(vector<vector<int>>& matrix) {
         //this was my logic, but it was wrong, as it was unable to check all elements of the square and therefore overcounts squares 
         int m=matrix.size();
@@ -45,15 +62,18 @@ int rec(vector<vector<int>>& matrix,int m,int n)
         //     }
         // }
         // return ans;
-        memset(dp,-1,sizeof(dp));
+        // memset(dp,-1,sizeof(dp));
+        // int ans=0;
+        // for(int i=1;i<=m;i++)
+        // {
+        //     for(int j=1;j<=n;j++)
+        //     {
+        //         ans+=rec(matrix,i,j);
+        //     }
+        // }
+        // return ans;
         int ans=0;
-        for(int i=1;i<=m;i++)
-        {
-            for(int j=1;j<=n;j++)
-            {
-                ans+=rec(matrix,i,j);
-            }
-        }
+        ans= ultarec(matrix,m,n);
         return ans;
     }
 };
