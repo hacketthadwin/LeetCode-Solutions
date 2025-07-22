@@ -8,7 +8,7 @@ public:
         {
             prefix[i]=prefix[i-1]+nums[i-1];
         }
-        map<int,int>mp;
+        unordered_map<int,int>mp;
         int max_sum=0;
         for(int i=0,j=0;j<n && i<n;j++)
         {
