@@ -1,4 +1,6 @@
 class Solution {
+    // https://justpaste.it/dr3j2
+    //this was my initial thought process which was wrong
 public:
     long long maxSubarrays(int n, vector<vector<int>>& cp) {
         int m=cp.size();
