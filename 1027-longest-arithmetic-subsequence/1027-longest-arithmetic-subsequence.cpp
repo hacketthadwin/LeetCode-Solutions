@@ -1,8 +1,3 @@
-#include <vector>
-#include <algorithm>
-#include <cstring>
-using namespace std;
-
 class Solution {
 public:
     int dp[1000][1000];
@@ -10,18 +5,29 @@ public:
     int longestArithSeqLength(vector<int>& arr) {
         int n = arr.size();
         if (n <= 2) return n;
-        // initialize to 2 (minimum length for any pair)
+        unordered_map<int, vector<int>> pos;
+        pos.reserve(n * 2);
+        for (int i = 0; i < n; ++i) {
+            pos[arr[i]].push_back(i);
+        }
+        for (auto& [v, vec] : pos) {
+            sort(vec.begin(), vec.end());
+        }
         for (int i = 0; i < n; ++i)
             for (int j = 0; j < n; ++j)
                 dp[i][j] = 2;
 
         int ans = 2;
-        // bottom-up: prev goes from n-2 down to 0 so that dp[curr][next] is ready
         for (int prev = n - 2; prev >= 0; --prev) {
             for (int curr = prev + 1; curr < n; ++curr) {
                 int diff = arr[curr] - arr[prev];
-                for (int next = curr + 1; next < n; ++next) {
-                    if (arr[next] - arr[curr] == diff) {
+                int want = arr[curr] + diff;
+                auto it = pos.find(want);
+                if (it != pos.end()) {
+                    const vector<int>& indices = it->second;
+                    auto itr = lower_bound(indices.begin(), indices.end(), curr + 1);
+                    if (itr != indices.end()) {
+                        int next = *itr;
                         dp[prev][curr] = max(dp[prev][curr], dp[curr][next] + 1);
                     }
                 }
@@ -32,12 +38,3 @@ public:
     }
 };
 
-const auto _ = std::cin.tie(nullptr)->sync_with_stdio(false);
-#define LC_HACK
-const auto __ = []() {
-    struct ___ {
-        static void _() { std::ofstream("display_runtime.txt") << 0 << '\n'; }
-    };
-    std::atexit(&___::_);
-    return 0;
-}();
