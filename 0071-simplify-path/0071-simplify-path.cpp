@@ -16,33 +16,33 @@ public:
                 while(i<n && s[i]=='/') i++;
             }
 
-                if (s[i] == '.') 
-                {
-                int cnt = 0;
-                while (i < n && s[i] == '.') 
+            if(s[i]=='.')
+            {
+                int cnt=0;
+                while(i<n && s[i]=='.')
                 {
                     cnt++;
                     i++;
                 }
-
                 if ((i == n || s[i] == '/') && cnt == 1) continue;
                 if ((i == n || s[i] == '/') && cnt == 2) 
-                {
-                    if (!st.empty()) st.pop();
-                    continue;
+                { 
+                    if(!st.empty()) st.pop(); continue; 
                 }
 
-                string temp = "";
-                while (cnt--) temp += '.';
-                while (i < n && s[i] != '/') 
+                string temp="";
+                while(cnt--) temp+='.';
+
+                while(i<n && s[i]!='/')
                 {
-                    temp += s[i];
+                    temp+=s[i];
                     i++;
                 }
-                st.push(temp);
-                continue;
+                
+                    st.push(temp);
+                    continue;
+                
             }
-
 
             if(i < n && ((s[i]>='a' && s[i]<='z') || (s[i]>='A' && s[i]<='Z')))
             {
