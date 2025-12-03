@@ -1,23 +1,25 @@
-class Solution {
-public:
+//THIS WAS GENIUNLY A TRICKY QUESTION
 
-//first lets count the number of extra spaces present
-vector<int>give_cnt(int residual,int cnt)
-{
-    if(cnt==0)return {};
-    int div=residual/cnt;
-    vector<int>ans(cnt,div);
-    int modu=residual%cnt;
-    int i=0;
-    while(modu>0)
+    class Solution {
+    public:
+    
+    //first lets count the number of extra spaces present
+    vector<int>give_cnt(int residual,int cnt)
     {
-        ans[i]++;
-        modu--;
-        i++;
+        if(cnt==0)return {};
+        int div=residual/cnt;
+        vector<int>ans(cnt,div);
+        int modu=residual%cnt;
+        int i=0;
+        while(modu>0)
+        {
+            ans[i]++;
+            modu--;
+            i++;
+        }
+    
+        return ans;
     }
-
-    return ans;
-}
     vector<string> fullJustify(vector<string>& words, int maxWidth) {
         int n=words.size();
         vector<int>words_len(n);
@@ -34,7 +36,17 @@ vector<int>give_cnt(int residual,int cnt)
             int cnt=0;
             int curr_len=0;
             //cnt will store number of words and curr_len will store the total length of sentence
-            while((i<n)&&((curr_len + words_len[i] + (cnt>0?1:0)) <= maxWidth))  //this was where my understanding and code was giving bug, i thought that if i add space after everyword, then it will work same as checking space before every word, but this is not the case, we need to change our thinking to adding space before adding word, not adding space after adding each word, due to this, the counting of space is less
+            while((i<n)&&((curr_len + words_len[i] + (cnt>0?1:0)) <= maxWidth))  
+            //this was where my understanding and code was giving bug, i thought that if i add space after every word,
+            //then it will act same as checking 1 space before adding each new word,
+            //but this is NOT same in the greedy condition. 
+            //When we add space after the previous word, that space is counted only AFTER adding that word,
+            //but the greedy check must consider the mandatory space BEFORE adding the next word.
+            //Because of this timing difference, during the fit check, I was checking only (curr_len + word_len),
+            //but the rule actually requires checking (curr_len + 1 + word_len) for every word except the first.
+            //So my curr_len was not wrong, but my fitting condition was skipping this mandatory space,
+            //which made me think "this fits", even though the real layout needs 1 more space.
+            //That is why adding space after each word is NOT logically equivalent to requiring 1 space before each new word.
             {
                 curr_len += words_len[i];
                 if(cnt>0) curr_len += 1;
