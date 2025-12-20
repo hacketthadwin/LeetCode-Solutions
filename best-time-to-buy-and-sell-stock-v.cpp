@@ -1,29 +1,31 @@
+//AWESOME DP OPTIMISATION USING SUFFIX MAXIMUM ARRAY
+
 class Solution {
 public:
     
-    long long rep(int indx, vector<int>& prices, int k,vector<vector<long long>>&dp)
-    {
-        //base case
-        if(indx>=prices.size())return 0;
-        //cache check
-        if(dp[indx][k]!=-1)return dp[indx][k];
-        //pruning case
-        if(k==0)return 0;
-        //cache check
-        //compute and transition
-        long long ans=0;
-        long long profit1=0,profit2=0;
-        for(int i=indx+1;i<prices.size();i++)
-        {
-            //if i do a transaction (no matter normal or short selling)
-            profit1=max(profit1,abs(prices[i]-prices[indx]) + rep(i+1,prices,k-1,dp));
-            //if i don't do any transaction on that day that is i skipped that day for a better future
-            profit2=max(profit2,rep(i,prices,k,dp));
-            ans=max(profit1,profit2);
-        }
-        return dp[indx][k]=ans;
+    // long long rep(int indx, vector<int>& prices, int k,vector<vector<long long>>&dp)
+    // {
+    //     //base case
+    //     if(indx>=prices.size())return 0;
+    //     //cache check
+    //     if(dp[indx][k]!=-1)return dp[indx][k];
+    //     //pruning case
+    //     if(k==0)return 0;
+    //     //cache check
+    //     //compute and transition
+    //     long long ans=0;
+    //     long long profit1=0,profit2=0;
+    //     for(int i=indx+1;i<prices.size();i++)
+    //     {
+    //         //if i do a transaction (no matter normal or short selling)
+    //         profit1=max(profit1,abs(prices[i]-prices[indx]) + rep(i+1,prices,k-1,dp));
+    //         //if i don't do any transaction on that day that is i skipped that day for a better future
+    //         profit2=max(profit2,rep(i,prices,k,dp));
+    //         ans=max(profit1,profit2);
+    //     }
+    //     return dp[indx][k]=ans;
         
-    }
+    // }
     long long maximumProfit(vector<int>& prices, int k) {
         // vector<vector<long long>>dp(prices.size()+1,vector<long long>(k+1,-1));
         // // return rep(0,prices,k,dp);
