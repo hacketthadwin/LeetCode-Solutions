@@ -28,6 +28,7 @@ public:
         //we need to calculate the number of deletions required, what is the most fundamental process you will follow?
         //if strs[i][j]>strs[i+1][j] , delete that index, simple?
         //now just make one more change in this that delete this only and only if the once we checked all previous indices and they are not sorted, if they are already sorted, don't delete it..simple
+        //this is a visa type problem, can be asked in VISA
         //now let's code
         vector<bool>already_sorted(n-1,false);
         for(int j=0;j<m;j++)
