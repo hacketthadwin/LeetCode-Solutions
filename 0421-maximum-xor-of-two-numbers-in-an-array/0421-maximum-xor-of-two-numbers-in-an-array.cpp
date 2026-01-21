@@ -61,18 +61,18 @@ struct BinaryTrie {
         int ans=0;
         int node = 0;
         for (int i = MAX_BITS; i >= 0; i--) {
-            int bit = (num >> i) & 1;
-            if(trie[node].child[1-bit]!=-1)
+            int bit = (num >> i) & 1;   //this gives bit of number at current position
+            if(trie[node].child[1-bit]!=-1)   //me checking if there is opposite sign bit present or not at that position
             {
             ans+= 1<<i;
             int next = trie[node].child[1-bit];
-            if (trie[next].num_going_below == 0)return ans;
+            if (trie[next].num_going_below == 0)return ans;  //if this is the end of the tree
             node = next;
             }
             else
             {
             int next = trie[node].child[bit];
-            if (trie[next].num_going_below == 0)return ans;
+            if (trie[next].num_going_below == 0)return ans; 
             node = next;
             }
         }  
