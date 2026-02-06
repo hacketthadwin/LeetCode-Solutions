@@ -1,5 +1,9 @@
 class Solution {
 public:
+//the mistake i made in this is
+// 1. always check the condition cnt>0 in every for loop (don't think your loop variables are enough to handle it)
+// 2. for a and b, i took index, but for c and d, i took size (m and n)
+// therefore, i will need to take index of c and d also i.e. d-1 and c-1 wherever required
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int m=matrix.size();
         int n=matrix[0].size();
