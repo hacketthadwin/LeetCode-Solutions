@@ -1,5 +1,6 @@
 class Solution {
 public:
+//ok so now one of the mistake i was doing is instead of squaring the cars, i was adding the "thing" variable directly to the curr_cars and also i was passing the cars^2 only, but as i was adding i was doing a^2+b^2+c^2..... but i wanted to check with (a+b+c....)^2, so that caused the errors 
 bool f(long long mid, vector<int>& ranks, long long cars)
 {
     //now we want to check if it is possible to make the simulataneous decision such that we can achieve the total time less than mid or not
