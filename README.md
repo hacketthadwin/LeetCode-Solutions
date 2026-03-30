@@ -10,6 +10,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
@@ -23,6 +24,7 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -37,6 +39,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 ## Math
