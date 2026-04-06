@@ -20,6 +20,7 @@ int extreme_right(TreeNode* root)
 }
 
 // Store a pair of {row, value} so we can sort properly later
+//we should only sort by value if two nodes share both the exact same row and the exact same column.
 map<int,vector<pair<int, int>>> mp_left, mp_right;
 
 void sol_left(TreeNode* root,int curr_row,int curr_col)
