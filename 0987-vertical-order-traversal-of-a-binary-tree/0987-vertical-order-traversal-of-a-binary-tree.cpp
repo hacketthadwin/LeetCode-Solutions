@@ -51,38 +51,65 @@ vector<vector<int>> verticalTraversal(TreeNode* root) {
     int total_right = extreme_right(root);
 
     // Update temporary vectors to hold the pairs
-    vector<vector<pair<int, int>>> left_part;
-    vector<vector<pair<int, int>>> right_part;
-    vector<vector<pair<int, int>>> merged_pairs;
+    // vector<vector<pair<int, int>>> left_part;
+    // vector<vector<pair<int, int>>> right_part;
+    // vector<vector<pair<int, int>>> merged_pairs;
     vector<vector<int>> ans;
     
     // root goes to both → duplication, so handle carefully
-    sol_left(root,0,0);
-    sol_right(root,0,0);
+    //it means every node is visited, not just left and right part,
+    //so i am doing twice the work then required, i can simply go from total left to total right in single for loop also
+    //and then sort it similarly
+    // sol_left(root,0,0);
+    // sol_right(root,0,0);
 
-    for(int i=total_left;i<=0;i++)
-    {
-        left_part.push_back(mp_left[i]);
-    }
+    // for(int i=total_left;i<=0;i++)
+    // {
+    //     left_part.push_back(mp_left[i]);
+    // }
     
-    for(int i=0;i<=total_right;i++)
+    // for(int i=0;i<=total_right;i++)
+    // {
+    //     right_part.push_back(mp_right[i]);
+    // }
+
+    // // merge (avoid duplicating column 0)
+    // for(auto &v : left_part) merged_pairs.push_back(v);
+
+    // for(int i=1;i<right_part.size();i++) // skip 0th column
+    //     merged_pairs.push_back(right_part[i]);
+
+    // // Sort the pairs (sorts by row first, then value) and extract just the values
+    // for(int i=0;i<merged_pairs.size();i++)
+    // {
+    //     sort(merged_pairs[i].begin(), merged_pairs[i].end());
+        
+    //     vector<int> col_vals;
+    //     for(auto &p : merged_pairs[i]) {
+    //         col_vals.push_back(p.second); // p.second is the actual node value
+    //     }
+    //     ans.push_back(col_vals);
+    // }
+    // return ans;
+
+
+
+    // -------------------------------------------------------------------
+
+    //EFFICIENT WITHOUT DUPLICATION
+    sol_left(root,0,0);
+    vector<vector<pair<int, int>>> whole_tree;
+    for(int i=total_left;i<=total_right;i++)
     {
-        right_part.push_back(mp_right[i]);
+        whole_tree.push_back(mp_left[i]);
     }
 
-    // merge (avoid duplicating column 0)
-    for(auto &v : left_part) merged_pairs.push_back(v);
-
-    for(int i=1;i<right_part.size();i++) // skip 0th column
-        merged_pairs.push_back(right_part[i]);
-
-    // Sort the pairs (sorts by row first, then value) and extract just the values
-    for(int i=0;i<merged_pairs.size();i++)
+    for(int i=0;i<whole_tree.size();i++)
     {
-        sort(merged_pairs[i].begin(), merged_pairs[i].end());
+        sort(whole_tree[i].begin(), whole_tree[i].end());
         
         vector<int> col_vals;
-        for(auto &p : merged_pairs[i]) {
+        for(auto &p : whole_tree[i]) {
             col_vals.push_back(p.second); // p.second is the actual node value
         }
         ans.push_back(col_vals);
