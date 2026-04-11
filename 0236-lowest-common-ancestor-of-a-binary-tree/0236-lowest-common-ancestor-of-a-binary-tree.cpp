@@ -91,9 +91,9 @@ TreeNode* dfs(TreeNode* root, TreeNode* p, TreeNode* q)
     TreeNode* second_call=nullptr;
     if(root->right!=nullptr)second_call=dfs(root->right,p,q);
 
-    if(first_call==p && second_call==q)return root;
-    if(first_call==p || second_call==p)return p;
-    if(first_call==q || second_call==q)return q;
+    if(first_call!=nullptr && second_call!=nullptr)return root;
+    if(first_call==nullptr && second_call!=nullptr)return second_call;
+    if(first_call!=nullptr && second_call==nullptr)return first_call;
     return nullptr;
 }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
