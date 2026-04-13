@@ -58,6 +58,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
