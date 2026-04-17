@@ -16,6 +16,7 @@
 | [2594-minimum-time-to-repair-cars](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
