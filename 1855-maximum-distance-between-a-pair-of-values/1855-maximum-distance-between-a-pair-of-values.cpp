@@ -12,7 +12,7 @@ public:
         // }
 
         //but this can be simply solved using two pointers as
-        int maxi=INT_MIN;
+        int maxi=0;
         for(int i=0,j=0;i<nums1.size() && j<nums2.size();)
         {
             if(nums1[i]<=nums2[j])
@@ -32,10 +32,10 @@ public:
                     j++;
                }
             }
-            if(j>=i)maxi=max(j-i,maxi);
+            if(j>=i)maxi=max(j-i,maxi); //here also works, but just needs a bit modification in the return value because 
             
         }
-        if(maxi==INT_MIN || maxi==0)
+        if(maxi==0)
         {
             return 0;
         }
