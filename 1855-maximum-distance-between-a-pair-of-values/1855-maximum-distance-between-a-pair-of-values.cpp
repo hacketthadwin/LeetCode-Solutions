@@ -12,12 +12,12 @@ public:
         // }
 
         //but this can be simply solved using two pointers as
-        int maxi=0;
+        int maxi=INT_MIN;
         for(int i=0,j=0;i<nums1.size() && j<nums2.size();)
         {
             if(nums1[i]<=nums2[j])
             {
-                if(j>=i)maxi=max(j-i,maxi);
+                // if(j>=i)maxi=max(j-i,maxi);   //update the value before increment, else will get redundant value
                 j++;
             }
             else
@@ -32,8 +32,16 @@ public:
                     j++;
                }
             }
+            if(j>=i)maxi=max(j-i,maxi);
             
         }
-        return maxi;
+        if(maxi==INT_MIN || maxi==0)
+        {
+            return 0;
+        }
+        else
+        {
+            return maxi-1;
+        }
     }
 };
