@@ -15,6 +15,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
+| [2615-sum-of-distances](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -120,6 +121,7 @@
 | ------- | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2615-sum-of-distances](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Design
@@ -140,4 +142,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2615-sum-of-distances](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 <!---LeetCode Topics End-->
