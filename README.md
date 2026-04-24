@@ -122,6 +122,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0460-lfu-cache](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2121-intervals-between-identical-elements](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -132,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0460-lfu-cache](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -146,10 +148,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0460-lfu-cache](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
