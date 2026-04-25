@@ -9,9 +9,9 @@ bool g(vector<pair<long long,pair<int,int>>>&points, int k,int m)
     //i.e. if i choose i=2, and m is 5, then i can choose 7,0 6,1 5,2 4,3 i.e. their sum should be 7
     //it mean for each point if i can find sum of their coordinates i can find the points i mentioned
     //nah but this will not be possible to find, also the n^2 code and fail due to overhead i guess
-    //now comes another concept which is pegionhole principle, If a valid set of k points exists, at least one of those points must fall within the first  N/k points of the sorted list.
+
     int n = points.size() / 2;
-    for(int p=0;p<n/2;p++)  //also initially i wrote p<(int)points.size()/k which gave wrong, it should be <=
+    for(int p=0;p<n/2;p++)
     {
         int c=k;
         c--;
@@ -28,7 +28,7 @@ bool g(vector<pair<long long,pair<int,int>>>&points, int k,int m)
             if (it == points.begin() + p + n) break; // no more points far enough on perimeter
             i = distance(points.begin(), it);
 
-            // FIX: after binary search, linearly scan instead of jumping back to top
+            // after binary search, linearly scan instead of jumping back to top
             // jumping back to top was re-running lower_bound on every manhattan failure = O(n log n) per start
             for(;i<p+n;i++)
             {
