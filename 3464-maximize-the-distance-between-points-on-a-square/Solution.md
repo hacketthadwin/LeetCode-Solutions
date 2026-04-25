@@ -6,7 +6,7 @@ also it is obvious from question that BS will be used
 
 things were mistakes are possible
 
-1. i was trying to find distance from one point to every other point and then picking the manhatten distance which went from 10^4*10^4*30, so obvious TLE
+1. i was trying to find distance from one point to every other point and then picking the manhatten distance which went from 10^4x10^4x30, so obvious TLE
 2. not doing lower bound and checking all points one by one and finding -> this is essential because in always perimeter>=manhatten distance, so you can safely choose perimeter (consider this as property)
 
 # Complexity
