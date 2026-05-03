@@ -177,4 +177,12 @@
 | ------- | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
