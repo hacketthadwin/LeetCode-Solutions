@@ -35,12 +35,23 @@ string ans;
             }
             return;
         }
-
         rec(idx+1,t,nums);
         rec(idx+1,s,nums);
     }
     string findDifferentBinaryString(vector<string>& nums) {
-        rec(0,nums[0],nums);
+        // rec(0,nums[0],nums);
+        // return ans;
+
+        //now there is one alternate mathematical approach too which is based on i guess probability, never knew before, got to know through discussions, the approach is cantor's diagonal argument, the proof of this argument can be seen on YT.
+        // it just states that we can get unique answer by diagonal elements in a n*n matrix
+        int n=nums.size(), len=nums[0].size();
+        string ans=string(len,'1');
+        for(int i=0; i<n; i++)
+        {
+            ans[i]=('1'-nums[i][i])+'0';
+        }
         return ans;
+
+
     }
 };
