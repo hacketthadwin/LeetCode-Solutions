@@ -1,7 +1,7 @@
 class Solution {
 public:
 vector<char>limit;
-
+int dp[1000000][2][2];
     int rec(int indx, int tight,int changed, string num)
     {
         if(indx==num.size())
@@ -9,7 +9,7 @@ vector<char>limit;
             if(changed==1)return 1;
             return 0;
         }
-
+        if(dp[indx][tight][changed]!=-1)return dp[indx][tight][changed];
         int ans=0;
 
         //added this max_limit variable for proper tight handling
@@ -53,11 +53,12 @@ vector<char>limit;
                 ans+=rec(indx+1,next_tight,changed,num);
             }
         }
-        return ans;
+        return dp[indx][tight][changed]=ans;
     }
 
     int rotatedDigits(int n) {
         string num = to_string(n);
+        memset(dp,-1,sizeof(dp));
         for(int i=0;i<num.size();i++)
         {
             limit.push_back(num[i]);
