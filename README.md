@@ -68,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0788-rotated-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
@@ -136,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0788-rotated-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [3660-jump-game-ix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
