@@ -21,6 +21,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2615-sum-of-distances](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -139,6 +140,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0788-rotated-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Hash Table
