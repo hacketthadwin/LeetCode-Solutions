@@ -25,3 +25,5 @@ public:
         return rec(start,arr,n);
     }
 };
+
+//lesson from this code, if we don't want to visit the current index again then initially we mark it as visited or false like others
