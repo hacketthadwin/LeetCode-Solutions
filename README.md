@@ -37,6 +37,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -190,6 +191,7 @@
 | [2615-sum-of-distances](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -241,6 +243,7 @@
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,4 +272,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
