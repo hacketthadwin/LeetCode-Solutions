@@ -21,6 +21,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
