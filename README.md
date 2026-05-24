@@ -16,6 +16,7 @@
 | [0704-binary-search](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1306-jump-game-iii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
@@ -66,6 +67,7 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1340-jump-game-v](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -175,6 +177,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0788-rotated-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
+| [1340-jump-game-v](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
