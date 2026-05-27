@@ -199,6 +199,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -253,6 +254,7 @@
 | [1871-jump-game-vii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
