@@ -41,6 +41,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -254,6 +255,7 @@
 | [1871-jump-game-vii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -287,6 +289,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
