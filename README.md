@@ -118,6 +118,7 @@
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1922-count-good-numbers](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -318,4 +319,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [1922-count-good-numbers](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->
