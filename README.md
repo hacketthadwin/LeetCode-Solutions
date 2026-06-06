@@ -187,6 +187,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0396-rotate-function](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
@@ -264,6 +265,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0796-rotate-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1871-jump-game-vii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
