@@ -40,6 +40,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2540-minimum-common-value](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2585-number-of-ways-to-earn-points](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2585-number-of-ways-to-earn-points/) | Hard |
 | [2594-minimum-time-to-repair-cars](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2615-sum-of-distances](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -201,6 +202,7 @@
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [1340-jump-game-v](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
+| [2585-number-of-ways-to-earn-points](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2585-number-of-ways-to-earn-points/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
