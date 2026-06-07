@@ -13,14 +13,14 @@ class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
         //so i can easily create a normal tree with parent-child relationship by making an adjacency list...then what i will get it every node will have either 1 or 2 child...and then the isleft will tell that if the child is in left or right
-        map<int,int>mp;
+        map<int,bool>mp;
         map<int,bool>is_child;
         for(int i=0;i<descriptions.size();i++)
         {
             int par=descriptions[i][0];
             int child=descriptions[i][1];
             int is_left=descriptions[i][2];  
-            mp[par]=child;
+            mp[par]=true;
             is_child[child]=true;
         }
         //so the node which is not child of any node...i.e. only parent...is root node...the node which has no child is leaf node...so mp.size will be the number of nodes but i cannot make adjacency list with this..because node is not necessarily from 1 to n or 0 to n-1...it is arbitrary...so i need to make the tree from the map itself
