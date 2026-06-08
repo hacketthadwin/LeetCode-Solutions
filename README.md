@@ -251,6 +251,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -335,5 +336,6 @@
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [1922-count-good-numbers](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->
