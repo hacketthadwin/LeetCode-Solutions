@@ -84,7 +84,7 @@ pair<long long, long long> dp[32][2][15][15][2];  //first one denotes sum..secon
             {
                 pair<long long,long long>p=rec(indx+1,(tight && i==ub),prev,i,(leading_zeroes && i==0),num,n);
                 ans+=p.first;
-                 cnt+=p.second;
+                cnt+=p.second;
                 continue;
             }
            else if(prev>prev_prev && prev>i)
@@ -114,8 +114,13 @@ pair<long long, long long> dp[32][2][15][15][2];  //first one denotes sum..secon
         string snum2=to_string(num2);
         memset(dp,-1LL,sizeof(dp));
         long long a= rec(0,true,11,11,true,snum2,snum2.size()).first ;
-        memset(dp,-1,sizeof(dp));   //here is a twist that we need to do memset twice..remember this thing in digit dp problem
+        memset(dp,-1LL,sizeof(dp));   //here is a twist that we need to do memset twice..remember this thing in digit dp problem
         long long b= rec(0,true,11,11,true,snum1,snum1.size()).first;
         return a-b;
     }
 };
+
+//what the hell was this problem....if it had used bitmask like previous problem...the problem will become 2x better...nice nice...loved it..literally loved it...first time used pair as dp...used up all digit up states...tight,leading zeroes....first time saw 2 state required i.e. prev_prev and prev...needed to send the count back...initially i was doing ans=ans+1+rec()
+//but why add 1 only....when multiple possibilities are there like if 4840 and 4848...then these 2 contribute seperately
+//also got to know that memset is possible on pairs also...randomly thought to add cnt+=p.second everywhere without even knowing it will work or not..but it did work..sometimes the problem behaves synchronously...
+//definately a todo problem
