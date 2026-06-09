@@ -54,6 +54,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
@@ -78,6 +79,7 @@
 | [2126-destroying-asteroids](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
