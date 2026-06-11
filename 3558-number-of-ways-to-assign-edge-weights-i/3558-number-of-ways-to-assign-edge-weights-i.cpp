@@ -42,7 +42,7 @@ int lca(int u,int v)
     u=kth_parent(u,k);
     //now all we got to do is find the lca of both u and v
     if(u==v)return u;
-    for(int i=0;i<M;i++)
+    for(int i=M-1;i>=0;i--)  //always take lca from highest i to 0
     {
         if(par[u][i]!=par[v][i])
         {
