@@ -39,14 +39,15 @@ int lca(int u,int v)
     if(dep[u]<dep[v])swap(u,v);
     int k=dep[u]-dep[v];
     //then lift v
-    int new_v=kth_parent(v,k);
-    //now all we got to do is find the lca of both u and new_v
+    u=kth_parent(u,k);
+    //now all we got to do is find the lca of both u and v
+    if(u==v)return u;
     for(int i=0;i<M;i++)
     {
-        if(par[u][i]!=par[new_v][i])
+        if(par[u][i]!=par[v][i])
         {
             u=par[u][i];
-            new_v=par[new_v][i];
+            v=par[v][i];
         }
     }
 
