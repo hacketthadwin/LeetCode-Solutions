@@ -27,7 +27,7 @@ int kth_parent(int curr,int k)
     int ans=curr;
     for(int i=0;i<M;i++)
     {
-        if(((k<<i) & 1))
+        if((k>>i)&1)
         {
             ans=par[ans][i];
         }
