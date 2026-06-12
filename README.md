@@ -107,6 +107,7 @@
 | [0704-binary-search](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -162,6 +163,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -179,6 +181,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
@@ -205,6 +208,7 @@
 | [1306-jump-game-iii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -217,6 +221,7 @@
 | [0788-rotated-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [1340-jump-game-v](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1871-jump-game-vii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2585-number-of-ways-to-earn-points](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2585-number-of-ways-to-earn-points/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -252,6 +257,7 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0460-lfu-cache](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -338,6 +344,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
