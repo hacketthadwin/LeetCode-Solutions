@@ -47,6 +47,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -165,6 +166,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
@@ -182,6 +184,7 @@
 | [1306-jump-game-iii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
@@ -225,6 +228,7 @@
 | [1871-jump-game-vii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2585-number-of-ways-to-earn-points](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2585-number-of-ways-to-earn-points/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -346,6 +350,7 @@
 | ------- | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Trie
