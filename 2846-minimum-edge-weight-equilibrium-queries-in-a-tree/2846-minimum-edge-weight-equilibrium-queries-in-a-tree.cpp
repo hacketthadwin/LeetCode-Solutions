@@ -1,24 +1,23 @@
 class Solution {
 public:
 int N;
-int M;
+int M=20;
 vector<vector<pair<int,int>>>adj;
 vector<int>dep;
 vector<vector<vector<pair<int,int>>>>par;
 
-//because adj[parent][curr] is invalid for adjacency list
 int getWt(int u,int v)
 {
     for(auto x:adj[u])
     {
-        if(x.first==v) return x.second;
+        if(x.first==v)return x.second;
     }
     return 0;
 }
 
 void dfs(int curr,int parent)
 {
-    dep[curr]=dep[parent]+1;
+    if(parent!=0)dep[curr]=dep[parent]+1;
 
     int wt=getWt(parent,curr);
 
@@ -29,46 +28,58 @@ void dfs(int curr,int parent)
 
     if(parent!=0)
     {
-        par[curr][0][wt]={parent,par[curr][0][wt].second+1};
+        par[curr][0][wt]={parent,1};
     }
 
-    //trying to do same thing as my thought process
     for(int i=1;i<M;i++)
     {
         for(int j=1;j<=26;j++)
         {
-            par[curr][i][j].first= par[par[curr][i-1][j].first][i-1][j].first;
-            par[curr][i][j].second= par[curr][i-1][j].second + par[par[curr][i-1][j].first][i-1][j].second;
+            par[curr][i][j].first=par[par[curr][i-1][j].first][i-1][j].first;
+            par[curr][i][j].second=par[curr][i-1][j].second+par[par[curr][i-1][j].first][i-1][j].second;
         }
     }
 
     for(auto x:adj[curr])
     {
-        if(x.first==parent) continue;
-        dfs(x.first,curr);
+        if(x.first!=parent)
+        {
+            dfs(x.first,curr);
+        }
     }
+}
+
+int kth_parent(int curr,int k)
+{
+    int ans=curr;
+
+    for(int i=0;i<M;i++)
+    {
+        if((k>>i)&1)
+        {
+            ans=par[ans][i][1].first;
+        }
+    }
+
+    return ans;
 }
 
 int lca(int u,int v)
 {
-    if(dep[u]<dep[v]) swap(u,v);
+    if(dep[u]<dep[v])swap(u,v);
 
-    int diff=dep[u]-dep[v];
+    int k=dep[u]-dep[v];
 
-    for(int i=M-1;i>=0;i--)
+    //then lift v
+    u=kth_parent(u,k);
+
+    //now all we got to do is find the lca of both u and v
+
+    if(u==v)return u;
+
+    for(int i=M-1;i>=0;i--)  
     {
-        if((1<<i)<=diff)
-        {
-            u=par[u][i][1].first;
-            diff-=(1<<i);
-        }
-    }
-
-    if(u==v) return u;
-
-    for(int i=M-1;i>=0;i--)
-    {
-        if(par[u][i][1].first!=0 && par[u][i][1].first!=par[v][i][1].first)
+        if(par[u][i][1].first!=par[v][i][1].first)
         {
             u=par[u][i][1].first;
             v=par[v][i][1].first;
@@ -78,48 +89,58 @@ int lca(int u,int v)
     return par[u][0][1].first;
 }
 
-vector<int> collect(int node,int ancestor)
+vector<int> collect(int curr,int ancestor)
 {
     vector<int>freq(28,0);
-    int diff=dep[node]-dep[ancestor];
-    for(int i=M-1;i>=0;i--)
+
+    int k=dep[curr]-dep[ancestor];
+
+    for(int i=0;i<M;i++)
     {
-        if((1<<i)<=diff)
+        if((k>>i)&1)
         {
             for(int j=1;j<=26;j++)
             {
-                freq[j]+=par[node][i][j].second;
+                freq[j]+=par[curr][i][j].second;
             }
-            node=par[node][i][1].first;
-            diff-=(1<<i);
+
+            curr=par[curr][i][1].first;
         }
     }
+
     return freq;
 }
 
-int solve_queries(int a,int b)
+int solve_queries(int u,int v)
 {
-    int node=lca(a,b);
-    vector<int>freq1=collect(a,node);
-    vector<int>freq2=collect(b,node);
+    int node=lca(u,v);
+
+    vector<int>left=collect(u,node);
+    vector<int>right=collect(v,node);
+
     vector<int>freq(28,0);
+
     for(int i=1;i<=26;i++)
     {
-        freq[i]=freq1[i]+freq2[i];
+        freq[i]=left[i]+right[i];
     }
+
     int totalEdges=0;
-    int mx=0;
+    int maxi=0;
+
     for(int i=1;i<=26;i++)
     {
         totalEdges+=freq[i];
-        mx=max(mx,freq[i]);
+        maxi=max(maxi,freq[i]);
     }
-    return totalEdges-mx;
+
+    return totalEdges-maxi;
 }
 
 //now i guess all remaining is solving queries
 //but i guess i will need to find lca..so that i can find number of distinct nodes from a to b by first finding number of distinct nodes from a to lca and b to lca..and taking union of them..then finding count of maximumm count of any node..then n-1 will be the minimum number of operations for that pair of nodes which i will need to do
 //i guess it will get too lengthy by this
+
 vector<int> minOperationsQueries(int n, vector<vector<int>>& edges, vector<vector<int>>& queries) {
     
     //so as there are only 26 weights..that's the main thing..instead of taking parent as just par[N][M], take it as
@@ -129,10 +150,8 @@ vector<int> minOperationsQueries(int n, vector<vector<int>>& edges, vector<vecto
     //i am taking one based indexing
 
     N=n;
-    M=20;
     adj.resize(n+2);
     dep.resize(n+2);
-
     par.resize(n+2,vector<vector<pair<int,int>>>(M,vector<pair<int,int>>(28,{0,0})));
 
     for(int i=0;i<edges.size();i++)
@@ -145,16 +164,17 @@ vector<int> minOperationsQueries(int n, vector<vector<int>>& edges, vector<vecto
         adj[v+1].push_back({u+1,w});
     }
 
+    dep[0]=-1;
     dfs(1,0);
 
     vector<int>ans;
 
-    for(auto x:queries)
+    for(int i=0;i<queries.size();i++)
     {
-        int a=x[0]+1;
-        int b=x[1]+1;
+        int u=queries[i][0]+1;
+        int v=queries[i][1]+1;
 
-        ans.push_back(solve_queries(a,b));
+        ans.push_back(solve_queries(u,v));
     }
 
     return ans;
