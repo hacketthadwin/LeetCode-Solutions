@@ -65,6 +65,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -154,6 +155,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -288,6 +290,7 @@
 | [0141-linked-list-cycle](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -382,6 +385,7 @@
 | [0044-wildcard-matching](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1922-count-good-numbers](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
