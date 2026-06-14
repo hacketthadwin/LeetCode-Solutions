@@ -65,6 +65,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -248,6 +249,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0398-random-pick-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0398-random-pick-index/) | Medium |
 | [0460-lfu-cache](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -290,6 +292,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
