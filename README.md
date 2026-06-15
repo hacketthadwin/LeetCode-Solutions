@@ -131,6 +131,7 @@
 | [0048-rotate-image](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0282-expression-add-operators](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0396-rotate-function](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0398-random-pick-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0398-random-pick-index/) | Medium |
 | [0788-rotated-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
@@ -330,6 +331,7 @@
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0115-distinct-subsequences](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0282-expression-add-operators](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0796-rotate-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1871-jump-game-vii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -345,6 +347,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0282-expression-add-operators](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Number Theory
