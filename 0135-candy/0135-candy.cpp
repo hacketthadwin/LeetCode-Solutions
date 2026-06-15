@@ -3,15 +3,15 @@ public:
     int candy(vector<int>& ratings) {
         //so my first approach will be to increase the candies count linearly first after sorting...then i will again loop in to compute if it can be decreased or not
 
-        unordered_map<int,int>mp;
+        // unordered_map<int,int>mp;
         vector<int>sorted_ratings=ratings;
         sort(sorted_ratings.begin(),sorted_ratings.end());
-        int rank=1;
-        for(int i=0;i<ratings.size();i++)
-        {
-            if(i>0 && sorted_ratings[i]>sorted_ratings[i-1]) rank++;
-            mp[sorted_ratings[i]]=rank;
-        }
+        // int rank=1;
+        // for(int i=0;i<ratings.size();i++)
+        // {
+        //     if(i>0 && sorted_ratings[i]>sorted_ratings[i-1]) rank++;
+        //     mp[sorted_ratings[i]]=rank;
+        // }
 
         vector<int>candies(ratings.size(), 1);
         for(int i=1;i<ratings.size();i++)
@@ -57,7 +57,7 @@ public:
             else higher_one_true=true;
 
             //now will evaluate based on the true of lower and higher one
-            if(lower_one_true && higher_one_true && candies[i] > mp[ratings[i]])
+            if(lower_one_true && higher_one_true )  //initially there was this condition too candies[i] > mp[ratings[i]]
             {
                 candies[i]=1;
             }
