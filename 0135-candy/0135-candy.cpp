@@ -3,7 +3,7 @@ public:
     int candy(vector<int>& ratings) {
         //so my first approach will be to increase the candies count linearly first after sorting...then i will again loop in to compute if it can be decreased or not
 
-        map<int,int>mp;
+        unordered_map<int,int>mp;
         vector<int>sorted_ratings=ratings;
         sort(sorted_ratings.begin(),sorted_ratings.end());
         int rank=1;
