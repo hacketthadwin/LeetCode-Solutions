@@ -59,7 +59,7 @@ public:
             //now will evaluate based on the true of lower and higher one
             if(lower_one_true && higher_one_true && candies[i] > mp[ratings[i]])
             {
-                candies[i]=mp[ratings[i]];
+                candies[i]=1;
             }
 
         }
