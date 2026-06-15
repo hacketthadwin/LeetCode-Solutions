@@ -12,6 +12,7 @@
 | [0057-insert-interval](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0135-candy](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
@@ -82,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0135-candy](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [0860-lemonade-change](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
