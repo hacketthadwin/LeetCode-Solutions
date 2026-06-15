@@ -16,6 +16,7 @@
 | [0455-assign-cookies](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0860-lemonade-change](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1306-jump-game-iii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
@@ -81,6 +82,7 @@
 | [0044-wildcard-matching](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0455-assign-cookies](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
+| [0860-lemonade-change](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
