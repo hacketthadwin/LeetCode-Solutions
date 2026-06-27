@@ -411,6 +411,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0197-rising-temperature](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
