@@ -8,13 +8,12 @@ FROM
 FROM Students st
 CROSS JOIN
 Subjects sb
-ORDER BY st.student_id) tabl1
+) tabl1
 LEFT JOIN
 (
 SELECT *, COUNT(e.student_id) AS attended_exams 
 FROM Examinations e
 GROUP BY e.subject_name,e.student_id
-ORDER BY e.subject_name
 ) tabl2
 ON tabl1.student_id=tabl2.student_id
 AND tabl1.subject_name=tabl2.subject_name
