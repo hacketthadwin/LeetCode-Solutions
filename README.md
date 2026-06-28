@@ -440,6 +440,7 @@
 | [1280-students-and-examinations](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1934-confirmation-rate](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1934-confirmation-rate/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
