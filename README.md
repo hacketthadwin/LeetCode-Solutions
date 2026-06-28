@@ -65,6 +65,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -286,6 +287,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Design
@@ -307,6 +309,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -332,6 +335,7 @@
 | [2121-intervals-between-identical-elements](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -439,12 +443,15 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
