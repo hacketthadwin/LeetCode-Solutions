@@ -58,6 +58,7 @@
 | [2594-minimum-time-to-repair-cars](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2615-sum-of-distances](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
@@ -223,6 +224,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1905-count-sub-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1992-find-all-groups-of-farmland/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -256,6 +258,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1905-count-sub-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1992-find-all-groups-of-farmland/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -372,6 +375,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -419,6 +423,7 @@
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1905-count-sub-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1905-count-sub-islands/) | Medium |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
