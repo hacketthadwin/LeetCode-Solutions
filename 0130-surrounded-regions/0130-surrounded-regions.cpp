@@ -72,6 +72,8 @@ public:
             }
         }
 
+
+        //the another approach for this would be by starting BFS/DFS only from border 'O's to mark safe zones, skipping the need to store every component...marking the boundary O's by something else character like 'P'...and then at last making O's as 'X' and P's as O's
         
     }
 };
