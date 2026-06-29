@@ -15,6 +15,7 @@
 | [0135-candy](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0200-number-of-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0396-rotate-function](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0455-assign-cookies](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -205,6 +206,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
@@ -235,6 +237,7 @@
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0200-number-of-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -350,6 +353,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0200-number-of-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -395,6 +399,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Bit Manipulation
