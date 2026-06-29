@@ -225,6 +225,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1905-count-sub-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1992-find-all-groups-of-farmland/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -260,6 +261,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1905-count-sub-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1992-find-all-groups-of-farmland/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -427,6 +429,7 @@
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1905-count-sub-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1905-count-sub-islands/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Bit Manipulation
@@ -464,6 +467,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
