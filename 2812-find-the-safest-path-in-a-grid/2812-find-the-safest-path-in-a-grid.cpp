@@ -64,7 +64,7 @@ public:
             }
         }
         //now i have dist matrix..now i will just apply bfs in such a way that i get min path from 0,0 to n-1,m-1
-        priority_queue<pair<int,pair<int,int>>>pq;
+        priority_queue<pair<int,pair<int,int>>>pq; //this is different from normal djikstra because in normal djikstra..we find the lowest value path...but here we are told to find the maximum safeness factor
         pq.push({dist[0][0],{0,0}});
         int mini=0;
         vector<vector<int>>min_dist(n,vector<int>(m,0));
