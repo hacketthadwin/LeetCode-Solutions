@@ -61,6 +61,7 @@
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2846-minimum-edge-weight-equilibrium-queries-in-a-tree/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -148,6 +149,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2540-minimum-common-value](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2594-minimum-time-to-repair-cars](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Math
@@ -177,6 +179,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +266,7 @@
 | [1992-find-all-groups-of-farmland](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Dynamic Programming
@@ -382,6 +386,7 @@
 | [1992-find-all-groups-of-farmland](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## String
@@ -433,6 +438,7 @@
 | [1905-count-sub-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
