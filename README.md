@@ -225,6 +225,7 @@
 | [0419-battleships-in-a-board](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -262,6 +263,7 @@
 | [0130-surrounded-regions](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -446,6 +448,7 @@
 | [0130-surrounded-regions](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -490,6 +493,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
