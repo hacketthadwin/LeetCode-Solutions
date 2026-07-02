@@ -25,6 +25,7 @@
 | [0721-accounts-merge](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0839-similar-string-groups](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0839-similar-string-groups/) | Hard |
 | [0860-lemonade-change](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
+| [0952-largest-component-size-by-common-factor](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0990-satisfiability-of-equality-equations](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -170,6 +171,7 @@
 | [0398-random-pick-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0398-random-pick-index/) | Medium |
 | [0788-rotated-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
+| [0952-largest-component-size-by-common-factor](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
@@ -320,6 +322,7 @@
 | [0721-accounts-merge](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0839-similar-string-groups](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0839-similar-string-groups/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -446,6 +449,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
@@ -465,6 +469,7 @@
 | [0721-accounts-merge](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [0839-similar-string-groups](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0839-similar-string-groups/) | Hard |
+| [0952-largest-component-size-by-common-factor](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0990-satisfiability-of-equality-equations](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
