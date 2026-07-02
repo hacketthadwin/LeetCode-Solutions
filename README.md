@@ -222,6 +222,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -257,6 +258,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -437,6 +439,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1905-count-sub-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1905-count-sub-islands/) | Medium |
@@ -479,6 +482,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
