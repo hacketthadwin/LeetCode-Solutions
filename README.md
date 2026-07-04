@@ -187,6 +187,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -234,6 +235,7 @@
 | [0684-redundant-connection](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0839-similar-string-groups](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0839-similar-string-groups/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -274,6 +276,7 @@
 | [0684-redundant-connection](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0839-similar-string-groups](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0839-similar-string-groups/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -298,6 +301,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0396-rotate-function](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0788-rotated-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [1340-jump-game-v](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
@@ -516,6 +520,7 @@
 | [0547-number-of-provinces](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -549,5 +554,6 @@
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
