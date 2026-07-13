@@ -1,129 +1,52 @@
 class Solution {
 public:
-vector<string>ans;
-vector<char>operations={'+','-','*'};
-long long value_finder(const string& temp)
-{
-    long long nums[20];
-    char ops[20];
-    int num_idx=0;
-    int op_idx=0;
-    long long current_num=0;
-    bool has_digits=false;
-    for(int i=0;i<temp.size();i++)
-    {
-        if(isdigit(temp[i]))
-        {
-            current_num=current_num*10+(temp[i]-'0');
-            has_digits=true;
+    vector<string> ans;
+    void rec(string& num, int target, int index, string expression,
+             long long value, long long last_operand) {
+        if (index == num.size()) {
+            if (value == target) {
+                ans.push_back(expression);
+            }
+            return;
         }
-        else if(temp[i]!='#')
-        {
-            nums[num_idx++]=current_num;
-            current_num=0;
-            ops[op_idx++]=temp[i];
+
+        for (long long i = index; i < num.size(); i++) {
+            bool is_zero = false;
+            string new_num;
+            if (num[index] == '0') {
+                is_zero = true;
+                // rec(num,target,i+1,expression+'+'+'0',value,0);
+                // rec(num,target,i+1,expression+'-'+'0',value,0);
+                // rec(num,target,i+1,expression+'*'+'0',(value-last_operand),0);
+            }
+            new_num = num.substr(index, i - index + 1);
+            long long new_number = stoll(new_num);
+            rec(num, target, i + 1, expression + '+' + to_string(new_number),
+                value + (new_number), new_number);
+            rec(num, target, i + 1, expression + '-' + to_string(new_number),
+                value - (new_number), -new_number);
+            rec(num, target, i + 1, expression + '*' + to_string(new_number),
+                (value - last_operand) + (last_operand * (new_number)),
+                last_operand * (new_number));
+            if (is_zero)
+                break;
         }
     }
-    if(has_digits)
-    {
-        nums[num_idx++]=current_num;
-    }
-    for(int i=0;i<op_idx;i++)
-    {
-        if(ops[i]=='*')
-        {
-            nums[i+1]=nums[i]*nums[i+1];
-            nums[i]=0;
-            if(i>0&&ops[i-1]=='-')
-            {
-                ops[i]='-';
+    vector<string> addOperators(string num, int target) {
+        bool is_zero = false;
+        for (long long i = 0; i < num.size(); i++) {
+            if (num[0] == '0') {
+                is_zero = true;
+                // rec(num,target,i+1,expression+'+'+'0',value,0);
+                // rec(num,target,i+1,expression+'-'+'0',value,0);
+                // rec(num,target,i+1,expression+'*'+'0',(value-last_operand),0);
             }
-            else
-            {
-                ops[i]='+';
-            }
+            long long new_number = stoll(num.substr(0, i - 0 + 1));
+            rec(num, target, i + 1, to_string(new_number), new_number,
+                new_number);
+            if (is_zero)
+                break;
         }
-    }
-    long long res=num_idx>0?nums[0]:0;
-    for(int i=0;i<op_idx;i++)
-    {
-        if(ops[i]=='+')
-        {
-            res+=nums[i+1];
-        }
-        else if(ops[i]=='-')
-        {
-            res-=nums[i+1];
-        }
-    }
-    return res;
-}
-void rec(int idx, string& num, int target)
-{
-    if(idx>=num.size())
-    {
-        //calculate num now..if it returns target store it in answer;
-        if(value_finder(num)==target)
-        {
-            string check="";
-            for(int i=0;i<num.size();i++)
-            {
-                if(num[i]!='#')
-                {
-                    check+=num[i];
-                }
-            }
-            bool invalid=false;
-            int n=check.size();
-            for(int i=0;i<n;i++)
-            {
-                if(isdigit(check[i]))
-                {
-                    if(check[i]=='0'&&(i+1<n&&isdigit(check[i+1])))
-                    {
-                        if(i==0||(!isdigit(check[i-1])))
-                        {
-                            invalid=true;
-                            break;
-                        }
-                    }
-                }
-            }
-            if(!invalid)
-            {
-                ans.push_back(check);
-            }
-        }
-        return;
-    }
-    num[idx]=operations[0];
-    rec(idx+2,num,target);
-    num[idx]=operations[1];
-    rec(idx+2,num,target);
-    num[idx]=operations[2];
-    rec(idx+2,num,target);
-    num[idx]='#';
-    rec(idx+2,num,target);
-}
-    vector<string> addOperators(string num, int target) 
-    {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        ans.clear();
-        if(num.empty())
-        {
-            return ans;
-        }
-        string temp="";
-        for(int i=0;i<num.size();i++)
-        {
-            temp+=num[i];
-            if(i!=(num.size()-1))
-            {
-                temp+='#';
-            }
-        }
-        rec(1,temp,target);
         return ans;
     }
 };
