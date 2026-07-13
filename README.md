@@ -95,6 +95,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -171,6 +172,7 @@
 | [0282-expression-add-operators](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0396-rotate-function](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0398-random-pick-index](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0398-random-pick-index/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0788-rotated-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
@@ -429,6 +431,7 @@
 | [0044-wildcard-matching](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0115-distinct-subsequences](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0282-expression-add-operators](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0282-expression-add-operators/) | Hard |
+| [0556-next-greater-element-iii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0721-accounts-merge](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0796-rotate-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0839-similar-string-groups](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0839-similar-string-groups/) | Hard |
