@@ -20,6 +20,7 @@
 | [0396-rotate-function](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0455-assign-cookies](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -200,6 +201,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -564,4 +566,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
