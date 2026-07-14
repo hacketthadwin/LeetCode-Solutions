@@ -33,6 +33,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1345-jump-game-iv/) | Hard |
@@ -320,6 +321,7 @@
 | [0788-rotated-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1871-jump-game-vii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1871-jump-game-vii/) | Medium |
@@ -427,6 +429,7 @@
 | [0130-surrounded-regions](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1905-count-sub-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1905-count-sub-islands/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
