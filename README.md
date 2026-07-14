@@ -53,6 +53,7 @@
 | [1992-find-all-groups-of-farmland](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -206,6 +207,7 @@
 | [0234-palindrome-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -577,4 +579,5 @@
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 <!---LeetCode Topics End-->
