@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long taskSchedulerII(vector<int>& tasks, int space) {
-        map<int,long long>mp;  //stores when the next same task need to be performed
+        unordered_map<int,long long>mp;  //stores when the next same task need to be performed
         long long global_time=0;
         for(int i=0;i<tasks.size();i++)
         {
