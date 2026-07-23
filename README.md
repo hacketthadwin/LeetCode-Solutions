@@ -121,6 +121,7 @@
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0135-candy](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
+| [0402-remove-k-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0765-couples-holding-hands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0765-couples-holding-hands/) | Hard |
@@ -231,6 +232,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
@@ -487,6 +489,7 @@
 | [0044-wildcard-matching](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0115-distinct-subsequences](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0282-expression-add-operators](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0282-expression-add-operators/) | Hard |
+| [0402-remove-k-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0721-accounts-merge](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0796-rotate-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
@@ -639,6 +642,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
