@@ -1,28 +1,25 @@
 class Solution {
 public:
-    int dp[1001][1001];
-    int m,n;
-    string A, B;
-    int rec(int i,int j)
+int dp[1001][1001];
+int rec(int i,int j,string&text1,string&text2){
+    if(i>=text1.size() || j>=text2.size())
     {
-        //pruning case
-        if(i>=m||j>=n)return 0;
-        //cache check
-        if(dp[i][j]!=-1)return dp[i][j];
-        //compute/transition
-        int ans=0;
-        ans=max(ans,rec(i+1,j));
-        ans=max(ans,rec(i,j+1));
-        if(A[i]==B[j])ans=max(ans,1+rec(i+1,j+1));
-        //save and return
-        return dp[i][j]=ans;
+        return 0;
     }
+
+    if(dp[i][j]!=-1)return dp[i][j];
+
+    int cnt=0;
+    if(text1[i]==text2[j])
+    {
+        cnt=max(cnt,rec(i+1,j+1,text1,text2)+1);
+    }
+    cnt=max(cnt,rec(i+1,j,text1,text2));
+    cnt=max(cnt,rec(i,j+1,text1,text2));
+    return dp[i][j]=cnt;
+}
     int longestCommonSubsequence(string text1, string text2) {
-        m=text1.size();
-        n=text2.size();
-        A=text1;
-        B=text2;
         memset(dp,-1,sizeof(dp));
-        return rec(0,0);
+        return rec(0,0,text1,text2);
     }
 };
