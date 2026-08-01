@@ -353,6 +353,7 @@
 | [0788-rotated-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0887-super-egg-drop](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -495,6 +496,7 @@
 | [0796-rotate-string](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0839-similar-string-groups](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0839-similar-string-groups/) | Hard |
 | [0990-satisfiability-of-equality-equations](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
