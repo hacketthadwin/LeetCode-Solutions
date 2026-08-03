@@ -630,6 +630,7 @@
 | [1661-average-time-of-process-per-machine](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1934-confirmation-rate](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/1934-confirmation-rate/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
