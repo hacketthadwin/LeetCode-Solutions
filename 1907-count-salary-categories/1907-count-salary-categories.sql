@@ -9,7 +9,7 @@ FROM (
     UNION ALL
     SELECT 'High Salary' AS category, 0 as accounts_count
 ) t
-
+-- here we created a temporary table and learn the method of creating new table as we were confused how to add those rows which were not present in the second table
 union
 
 select tabl.category,count(*) as accounts_count 
