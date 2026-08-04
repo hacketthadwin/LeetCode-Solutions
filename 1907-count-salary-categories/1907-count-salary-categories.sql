@@ -1,0 +1,30 @@
+# Write your MySQL query statement below
+select category,max(accounts_count) as accounts_count
+from
+(SELECT *
+FROM (
+    SELECT 'Low Salary' AS category, 0 as accounts_count
+    UNION ALL
+    SELECT 'Average Salary' AS category, 0 as accounts_count
+    UNION ALL
+    SELECT 'High Salary' AS category, 0 as accounts_count
+) t
+
+union
+
+select tabl.category,count(*) as accounts_count 
+from
+(select "Low Salary" as category,account_id
+from Accounts
+where income < 20000
+union
+select "Average Salary" as category,account_id
+from Accounts
+where income>=20000 and income<=50000
+union
+select "High Salary" as category, account_id
+from Accounts
+where income > 50000) tabl
+group by tabl.category
+)tabl2
+group by tabl2.category
