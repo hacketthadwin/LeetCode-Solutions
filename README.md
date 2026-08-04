@@ -612,6 +612,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
