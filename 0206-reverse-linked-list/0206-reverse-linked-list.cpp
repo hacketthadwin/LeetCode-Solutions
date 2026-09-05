@@ -10,30 +10,27 @@
  */
 class Solution {
 public:
-    ListNode* ans_rec=nullptr;
-    ListNode* rec_head=nullptr;
-    void rec(ListNode* head)
+    ListNode* ans;
+    ListNode* finans;
+    ListNode* temp;
+    void rec(ListNode* temp)
     {
-        if(head->next==nullptr)
+        if(temp->next==nullptr)
         {
-            ans_rec=new ListNode(head->val);
-            rec_head=ans_rec;
+            ans= new ListNode(temp->val);
+            finans=ans;
             return;
         }
-
-        if(head->next!=nullptr)rec(head->next);
-        ListNode* temp = new ListNode(head->val);
-        ans_rec->next=temp;
-        ans_rec=ans_rec->next;
+        rec(temp->next);
+        ans->next=new ListNode(temp->val);
+        ans=ans->next;
     }
     ListNode* reverseList(ListNode* head) {
-        //so the challenge here will be to reverse the linked list without extra memory (array)
-        //and do in both recursive and iterative way
-        //what can i do...for recursive i can do is keep on moving and when i reach the end..then i keep returning the values...and a listnode keeps adding those values
-        //how can i do in iterative in O(n)
-        //first let's do the recursive one
+        //yeah i remember this problem was badd....i needed to first save the original pointer somewhere...then keep going...yeah yeah recursion...now i know
         if(head==nullptr)return nullptr;
-        rec(head);
-        return rec_head;
+        temp=head;
+        rec(temp);
+        return finans;
+
     }
 };
