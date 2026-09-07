@@ -1,26 +1,23 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-        deque<int>dq;
-        vector<int>ans(nums.size());
-        for(int i=2*nums.size();i>=0;i--)
+        stack<int>st;
+        vector<int>ans(nums.size(),-1);
+        for(int i=2*nums.size()-1;i>=0;i--)
         {
-            int c=i%(nums.size());
-            while((!dq.empty()) && (dq.back()<=nums[c]))
+            int k=i%(nums.size());
+            while(!st.empty() && nums[st.top()]<=nums[k])
             {
-                dq.pop_back();
+                st.pop();
             }
-            if(!dq.empty() && dq.back()>nums[c])
-            {
-                ans[i%(nums.size())]=dq.back();
-            }
-            else
-            {
-                ans[i%(nums.size())]=-1;
-            }
-            dq.push_back(nums[c]);
-        }
 
+            if(!st.empty()) {
+                ans[k] = nums[st.top()];
+            }
+
+
+            st.push(k);
+        }
         return ans;
     }
 };
