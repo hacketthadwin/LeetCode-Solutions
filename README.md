@@ -13,6 +13,7 @@
 | [0057-insert-interval](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0085-maximal-rectangle](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -230,6 +231,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -347,6 +349,7 @@
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0085-maximal-rectangle](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0337-house-robber-iii/) | Medium |
@@ -477,6 +480,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0085-maximal-rectangle](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -684,6 +688,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/hacketthadwin/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
